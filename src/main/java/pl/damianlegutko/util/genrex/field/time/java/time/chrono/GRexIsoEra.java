@@ -1,4 +1,4 @@
-package pl.damianlegutko.util.genrex.field.libs.ext.java.time.chrono;
+package pl.damianlegutko.util.genrex.field.time.java.time.chrono;
 
 import pl.damianlegutko.util.genrex.base.GRexE;
 
